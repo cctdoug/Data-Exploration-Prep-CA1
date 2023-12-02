@@ -1,0 +1,13 @@
+TeamMember,TaskDone,Difficulty(weight),TimeSpent,Date
+Keith,a,1,0.5,29/11/23
+Keith,b,1,0.5,29/11/23
+Keith,c,1,0.5,29/11/23
+Douglas,d,2,2,29/11/23
+Douglas,e,4,4,29/11/23
+Both,f,5,5,30/11/23
+Both,g,5,5,30/11/23
+Keith,h,2,2,01/12/23
+Both,i,2,5,01/12/23
+Douglas,ii,4,7,01/12/23
+Keith,iii,4,6,01/12/23
+Both,iv,5,20,null
